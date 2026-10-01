@@ -181,7 +181,7 @@ const WALLETS = {
 			"wallets_feature_settles_bitcoin_or_dollars",
 			"wallets_feature_one_percent_fee",
 		],
-		link: "https://getbarebits.com/",
+		link: "https://github.com/BareBits/cashupayserver",
 	},
 	barebitsOnline: {
 		id: "barebits-online",
@@ -194,7 +194,7 @@ const WALLETS = {
 			"wallets_feature_online_store",
 			"wallets_feature_one_percent_fee",
 		],
-		link: "https://getbarebits.com/",
+		link: "https://github.com/BareBits/cashupayserver",
 	},
 	zaprite: {
 		id: "zaprite",
@@ -570,7 +570,7 @@ export default async function BusinessWalletsPage({
 							</li>
 							<li>
 								<a
-									href="https://getbarebits.com/"
+									href="https://github.com/BareBits/cashupayserver"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
